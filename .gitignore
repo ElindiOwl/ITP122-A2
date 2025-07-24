@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+
+# IDE and project files
+.idea/
+*.iml
+
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Archive files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# VSCode settings
+.vscode/
+
+# Ignore the following if present
+*.log
+
+# JetBrains project files (from .idea/.gitignore)
+.idea/shelf/
+.idea/workspace.xml
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml 
